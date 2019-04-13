@@ -49,5 +49,5 @@ thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 # Show Codelines
 code-line-numbers : true
 
-# Using monokai theme
+# Using monokai theme for code
 highlight : monokai
