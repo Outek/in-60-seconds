@@ -33,6 +33,8 @@
 
 @snap[north span-100 headline]
 
+---
+
 ## Golang
 
 ---?code=src/golang/main.go&lang=golang
@@ -40,6 +42,8 @@
 @[1]
 @[3-5]
 @[7-9]
+
+---
 
 ## Powershell
 
