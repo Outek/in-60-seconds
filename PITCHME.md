@@ -7,9 +7,12 @@
 ![](assets/img/presentation.png)
 
 ---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
+
+---
 
 #### Add a splash of @color[blue](**color**) and you are ready to start presenting...
 
